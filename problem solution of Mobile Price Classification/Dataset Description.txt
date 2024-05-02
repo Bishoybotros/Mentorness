@@ -1,0 +1,23 @@
+Dataset Description:
+The dataset comprises the following columns:
+1. battery_power: Total energy a battery can store in mAh.
+2. blue: Bluetooth enabled (1 if yes, 0 if no).
+3. clock_speed: Speed at which microprocessor executes instructions.
+4. dual_sim: Dual SIM support (1 if yes, 0 if no).
+5. fc: Front Camera mega pixels.
+6. four_g: 4G network support (1 if yes, 0 if no).
+7. int_memory: Internal Memory (in gigabytes).
+8. m_dep: Mobile Depth in cm.
+9. mobile_wt: Weight of mobile phone.
+10. n_cores: Number of cores of the processor.
+11. pc: Primary Camera mega pixels.
+12. px_height: Pixel Resolution Height.
+13. px_width: Pixel Resolution Width.
+14. ram: Random Access Memory in megabytes.
+15. sc_h: Screen Height of mobile in cm.
+16. sc_w: Screen Width of mobile in cm.
+17. talk_time: Longest time that a single battery charge will last when you are talking.
+18. three_g: 3G network support (1 if yes, 0 if no).
+19. touch_screen: Touch screen support (1 if yes, 0 if no).
+20. wifi: Wifi connectivity (1 if yes, 0 if no).
+21. price_range: Price range of the mobile phone (0 - low cost, 1 - medium cost, 2 - high cost, 3 - very high cost).
